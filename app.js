@@ -21,6 +21,7 @@
 		function msg(m){
 
 			alert(m);
+			document.write('Hello!');
 		}
 
 		function sumatoria(n){
